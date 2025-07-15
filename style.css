@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    justify-self: center;
+    background-color: aqua;
+
+}
+h3{
+    justify-self: center;
+}
+#Box{
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
